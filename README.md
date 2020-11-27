@@ -1,4 +1,4 @@
-# Hangman-Game-JS
+# Hangman Game
 
 Web Hangman Game
 
