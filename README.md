@@ -1,8 +1,6 @@
-# Hangman Game
+# hangman game
 
-Web Hangman Game
-
-HTML, CSS, Javascript
+Hangman game w/ HTML, CSS, Javascript
 
 ![hangman1](https://user-images.githubusercontent.com/57807464/100402773-0c33b200-3055-11eb-8511-c617b0c6bbb8.PNG)
 ![hangman5](https://user-images.githubusercontent.com/57807464/100402771-0b9b1b80-3055-11eb-9ee9-9754d55fbbd7.PNG)
